@@ -1,0 +1,35 @@
+\begin{thebibliography}{1}
+
+\bibitem{Ferrari2}
+S.~Ferrari and F.~Cribari-Neto.
+\newblock Beta regression for modelling rates and proportions.
+\newblock {\em Journal of applied statistics}, 31(7):799--815, 2004.
+
+\bibitem{Galvis1}
+D.~Galvis and V.~Lachos.
+\newblock {\em Bayesian analysis of regression models for proportional data in
+  the presence of zeros and ones}.
+\newblock PhD thesis, Estatal University of Campinas, 2014.
+
+\bibitem{Barndorff1}
+B.~J{\o}rgensen and Barndorff-Nielsen.
+\newblock Some parametric models on the simplex.
+\newblock {\em Journal of multivariate analysis}, 39(1):106--116, 1991.
+
+\bibitem{Ospina1}
+R.~Ospina and S.~Ferrari.
+\newblock A general class of zero-or-one inflated beta regression models.
+\newblock {\em Computational Statistics and Data Analysis}, 56(6):1609--1623,
+  2012.
+
+\bibitem{Stasinopoulos2}
+B.~Rigby and M.~Stasinopoulos.
+\newblock Generalized additive models for location, scale and shape.
+\newblock {\em Applied Statistical}, 54(3):507--554, 2005.
+
+\bibitem{Zeileis1}
+A.~Zeileis, F.~Cribari-Neto, and B.~Gr{\"u}n.
+\newblock Beta regression in r.
+\newblock {\em Journal of statistical software}, 34(2):1--24, 2010.
+
+\end{thebibliography}
