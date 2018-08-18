@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2014.4.25)  9 AUG 2018 21:58
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2014.4.25)  17 AUG 2018 18:59
 entering extended mode
 **poster.tex
 ("D:\Juan Camilo\UN\Maestria en Ciencias Estadisticas\LatinR\POSTER\poster.tex"
@@ -389,6 +389,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--103
 <Estado_Arte.jpg, id=2, 783.67781pt x 167.12437pt>
 File: Estado_Arte.jpg Graphic file (type jpg)
  <use Estado_Arte.jpg>
+
+LaTeX Warning: Reference `Mod_pmix' on page 1 undefined on input line 164.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 189--189
 
  []
@@ -424,9 +428,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 259--260
 
  []
 
+
+LaTeX Warning: Reference `A_eq_reg_mix2' on page 1 undefined on input line 288.
+
 <Esc_sim_mix.jpg, id=4, 409.53pt x 149.05687pt>
 File: Esc_sim_mix.jpg Graphic file (type jpg)
  <use Esc_sim_mix.jpg>
+
+LaTeX Warning: Citation `Ferrari2' undefined on input line 343.
+
+
+LaTeX Warning: Citation `Stasinopoulos2' undefined on input line 343.
+
+
+LaTeX Warning: Citation `Barndorff1' undefined on input line 343.
+
+
+LaTeX Warning: Citation `Galvis1' undefined on input line 343.
+
+
+LaTeX Warning: Citation `Ospina1' undefined on input line 343.
+
+
+LaTeX Warning: Citation `Zeileis1' undefined on input line 343.
+
 ("D:\Juan Camilo\UN\Maestria en Ciencias Estadisticas\LatinR\POSTER\poster.bbl"
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <20.74> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 1.
@@ -450,26 +475,32 @@ LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <20.74> not available
 {C:/ProgramData/MiKTeX/2.8/pdftex/config/pdftex.map} <D:/Juan Camilo/UN/Maestria en Ciencias Estadisticas/LatinR/POSTER/
 logolatinr.jpg> <D:/Juan Camilo/UN/Maestria en Ciencias Estadisticas/LatinR/POSTER/Estado_Arte.jpg> <D:/Juan Camilo/UN/M
 aestria en Ciencias Estadisticas/LatinR/POSTER/Logo_ZOIP.jpg> <D:/Juan Camilo/UN/Maestria en Ciencias Estadisticas/Latin
-R/POSTER/Esc_sim_mix.jpg>] ("D:\Juan Camilo\UN\Maestria en Ciencias Estadisticas\LatinR\POSTER\poster.aux") ) 
+R/POSTER/Esc_sim_mix.jpg>] ("D:\Juan Camilo\UN\Maestria en Ciencias Estadisticas\LatinR\POSTER\poster.aux")
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
  3395 strings out of 495285
  46186 string characters out of 3179872
- 293022 words of memory out of 3000000
+ 293046 words of memory out of 3000000
  6514 multiletter control sequences out of 15000+200000
  29708 words of font info for 70 fonts, out of 3000000 for 9000
  16 hyphenation exceptions out of 8191
  30i,19n,35p,372b,470s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program
- Files (x86)/MiKTeX 2.8/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/c
-m/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX
- 2.8/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmib10
-.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.8/font
-s/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pr
-ogram Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/typ
-e1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)
-/MiKTeX 2.8/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/urw/helvetic/uhvr8a.pfb>
-<C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on poster.pdf (1 page, 243416 bytes).
+{C:/Program Files (x86)/MiKTeX 2.8/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfon
+ts/cm/cmmib10.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/Mi
+KTeX 2.8/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Program Files (x86)/MiKTeX 
+2.8/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.8/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/urw/helveti
+c/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on poster.pdf (1 page, 243614 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
